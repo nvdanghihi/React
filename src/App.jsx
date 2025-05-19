@@ -7,7 +7,7 @@ import LatestReleases from './assets/component/LatestReleases'
 import Newsletter from './assets/component/Newsletter'
 import TourDates from './assets/component/TourDates'
 import VideoSection from './assets/component/VideoSection'
-import NewsSection from './assets/NewsSection'
+import NewsSection from './assets/component/NewsSection'
 function App() {
   return (
     <>

@@ -1,12 +1,12 @@
-# React + Vite
+Đây là một dự án ứng dụng web được xây dựng bằng React — thư viện JavaScript để tạo giao diện người dùng tương tác.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ứng dụng này tập trung vào việc sử dụng các components, state và props của React để xây dựng UI động, phản hồi nhanh và dễ mở rộng.
 
-Currently, two official plugins are available:
+Tính năng
+Cấu trúc component rõ ràng, dễ hiểu và dễ bảo trì.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Quản lý trạng thái và dữ liệu quau useState, useEffect.
 
-## Expanding the ESLint configuration
+Xử lý các sự kiện người dùng (click, nhập liệu).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Thiết kế giao diện thân thiện, có thể mở rộng.
